@@ -16,6 +16,3 @@ class ProductViewSet(viewsets.ModelViewSet):
 class OrderViewSet(viewsets.ModelViewSet):
     queryset = Order.objects.all()
     serializer_class = OrderSerializer
-    git
-    commit - m
-    "PranavPookuth/python1
